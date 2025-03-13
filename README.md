@@ -7,7 +7,7 @@
 ### 🚀 About Me
 - 🔭 Currently working on **exciting web projects**
 - 🌱 Learning **Laravel, React, DevOps**
-- 🎯 2024 Goal: **Master Full-Stack Development**
+- 🎯 2025 Goal: **Master Full-Stack Development**
 - 💬 Ask me about **Backend, Frontend, GitHub, APIs**
 - ⚡ Fun fact: **I love solving complex software problems!**
 
